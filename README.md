@@ -54,6 +54,13 @@ Strength is displayed as:
 * Weak
 * Medium
 * Strong
+---
+## Screenshots
+
+### Main Window
+
+![BMI Calculator](/screenshots/app.png)
+
 
 ## Project Structure
 
